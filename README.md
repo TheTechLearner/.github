@@ -13,11 +13,11 @@ It's still not a money-earning professional blog i.e. a  non-profitable free lea
 [Rajdeep Das](https://github.com/Rajspeaks)
 
 ### Follow:
-Website: [TheTechLearner-blog](https://thetechlearner.wordpress.com)
-Facebook: [TheTechLearner-Facebook](https://facebook.com/Thetechlearner)
-Twitter: [TheTechLearner-Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=thetechlearner)
-Instagram: [TheTechLearner-Instagram](https://instagram.com/thetechlearner)
-LinkedIn: [TheTechLearner-LinkedIn](https://www.linkedin.com/company/thetechlearner-blog/)
+1. Website: [TheTechLearner-blog](https://thetechlearner.wordpress.com)
+2. Facebook: [TheTechLearner-Facebook](https://facebook.com/Thetechlearner)
+3. Twitter: [TheTechLearner-Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=thetechlearner)
+4. Instagram: [TheTechLearner-Instagram](https://instagram.com/thetechlearner)
+5. LinkedIn: [TheTechLearner-LinkedIn](https://www.linkedin.com/company/thetechlearner-blog/)
 
 ### Thank you
 
