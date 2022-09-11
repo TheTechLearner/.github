@@ -5,7 +5,7 @@ This is the official forum of TheTechLearner on GitHub. We have opened our publi
 ## About
 TheTechLearner is an educational blog on technical facts/updates, case studies on latest tech stacks & a ground level door to digital marketing tips and cracks based on blogging, especially it has earned a remarkable idenitity after publishing its series of 'How to Start your blog', made for newbie bloggers.
 
-TheTechLearner was initially hosted on 16th January 2018 on 'WordPress.com' platform with its free blogging services which was founded & started as a new journey by [Rajdeep Das](https//github.com/Rajspeaks) and after a month of recreating the whole website, it was officially published on 2nd February, 2018.
+TheTechLearner was initially hosted on 16th January 2018 on 'WordPress.com' platform with its free blogging services which was founded & started as a new journey by [Rajdeep Das](https://github.com/Rajspeaks) and after a month of recreating the whole website, it was officially published on 2nd February, 2018.
 
 P.S.- It's still not a money-earning professional blog i.e. a  non-profitable free learning blog with limited services but reached a huge reader base by 2019. From 2020 to till now it's not a regular publishing blog but frequently promoting latest tech news & most trending discussed topics on its social media handles.
 
