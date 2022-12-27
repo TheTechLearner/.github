@@ -1,6 +1,6 @@
 # TheTechLearner
 
-This is the official forum of TheTechLearner on GitHub. We have opened our public organization-profile on GitHub for the first time to start an amazing open source journey from scratch. 
+This is the official forum of TheTechLearner on GitHub. We have opened our public organization-profile on GitHub for the first time to start an amazing open source journey from scratch. Founder & Maintainer [Rajdeep Das](https://github.com/Rajspeaks). 
 
 ## About
 TheTechLearner is an educational blog on technical facts/updates, case studies on latest tech stacks & a ground level door to digital marketing tips and cracks based on blogging, especially it has earned a remarkable idenitity after publishing its series of 'How to Start your blog', made for newbie bloggers.
@@ -18,6 +18,8 @@ P.S.- It's still not a money-earning professional blog i.e. a  non-profitable fr
 3. Twitter: [TheTechLearner-Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=thetechlearner)
 4. Instagram: [TheTechLearner-Instagram](https://instagram.com/thetechlearner)
 5. LinkedIn: [TheTechLearner-LinkedIn](https://www.linkedin.com/company/thetechlearner-blog/)
+6. Quora: [TheTechLearner-Quora](https://thetechlearnerblog.quora.com/)
+
 
 ### Thank you
 
